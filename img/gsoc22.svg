@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet href="main.css" type="text/css"?><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="85.35822pt"
+   height="95.62415pt"
+   viewBox="-42.67911 -47.81207 85.35822 95.62415 "
+   version="1.1"
+   id="svg30"
+   sodipodi:docname="gsoc.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata36">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs34" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="833"
+     id="namedview32"
+     showgrid="false"
+     inkscape:zoom="1.8509968"
+     inkscape:cx="-61.947015"
+     inkscape:cy="45.541827"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg30" />
+  <g
+     transform="translate(0, 47.81207 ) scale(1,-1) translate(0,47.81207 )"
+     id="g28">
+    <g
+       id="g26"
+       stroke="#000"
+       fill="#000">
+      <g
+         id="g24"
+         stroke-width="0.4">
+        <g
+           id="g4"
+           fill="#ff9600">
+          <path
+             d=" M 0.0 0.0 M 42.67911 0.0 C 42.67911 23.57132 23.57132 42.67911 0.0 42.67911 C -23.57132 42.67911 -42.67911 23.57132 -42.67911 0.0 C -42.67911 -23.57132 -23.57132 -42.67911 0.0 -42.67911 C 23.57132 -42.67911 42.67911 -23.57132 42.67911 0.0 Z M 0.0 0.0  "
+             id="path2"
+             stroke="none" />
+        </g>
+        <g
+           id="g12"
+           fill="#005082">
+          <g
+             id="g10"
+             stroke="#fff">
+            <g
+               id="g8"
+               stroke-width="3.5">
+              <path
+                 d=" M 0.0 0.0 M 34.1432 0.0 C 34.1432 18.85701 18.85701 34.1432 0.0 34.1432 C -18.85701 34.1432 -34.1432 18.85701 -34.1432 0.0 C -34.1432 -18.85701 -18.85701 -34.1432 0.0 -34.1432 C 18.85701 -34.1432 34.1432 -18.85701 34.1432 0.0 Z M 0.0 0.0  "
+                 id="path6" />
+            </g>
+          </g>
+        </g>
+        <g
+           transform="translate(-28.45274,-2.73749)"
+           id="g22">
+          <g
+             id="g20"
+             fill="#000">
+            <text
+               style="stroke:none"
+               transform="scale(1,-1) translate(28.45274,0)"
+               font-size="10.95"
+               id="text18"
+               text-anchor="middle"
+               fill="white">
+              <g
+                 id="g16"
+                 fill="#fff">
+                <g
+                   id="g14"
+                   stroke="none">
+                  <div
+                     class="center">
+                    <span
+                       id="">
+                      <tspan
+                         font-family=""
+                         ont-size="">20%</tspan>
+                    </span>
+                    <br />
+                    <span
+                       id="textcolor10">
+                      <tspan
+                         font-family=""
+                         font-size="">work done</tspan>
+                    </span>
+                  </div>
+                </g>
+              </g>
+            </text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.99999905px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.74999994"
+     x="-0.61096966"
+     y="-4"
+     id="text40"><tspan
+       sodipodi:role="line"
+       id="tspan38"
+       x="-0.61097157"
+       y="-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.99999905px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.74999994">GSoC-22</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.74999994"
+     x="-0.94727916"
+     y="13.784439"
+     id="text23"><tspan
+       sodipodi:role="line"
+       id="tspan21"
+       x="-0.94727916"
+       y="13.784439"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.74999994">Contributor</tspan></text>
+</svg>
